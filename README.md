@@ -1,0 +1,1 @@
+# pr_image_storing_location
