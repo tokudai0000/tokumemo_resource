@@ -1,0 +1,26 @@
+{
+  "itemCounts": 3,
+  "contents": [
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/pr_image_storing_location/main/images/230226_1.png",
+      "introduction": "トクメモ＋では現在PR画像の募集を行っています！申請は詳細情報からお願いします！(ホームページからでも申請可能です)",
+      "tappedURL": "https://forms.gle/mL4vFjFruhBJpUKY8",
+      "organization_name": "トクメモ＋",
+      "description": "PR画像の募集"
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/pr_image_storing_location/main/images/230226_2.png",
+      "introduction": "トクメモ＋では現在部活・サークル紹介一覧の申請団体の募集を行っています！申請は詳細情報からお願いします！(ホームページからでも申請可能です)",
+      "tappedURL": "https://forms.gle/oN4fkBYDoKWQDK467",
+      "organization_name": "トクメモ＋",
+      "description": "部活・サークル一覧の募集"
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/pr_image_storing_location/main/images/230226_3.png",
+      "introduction": "",
+      "tappedURL": "https://twitter.com/manabukun_sss",
+      "organization_name": "徳島大学学びサポート企画部",
+      "description": "メンバー募集"
+    }
+  ]
+}
