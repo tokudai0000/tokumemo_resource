@@ -1,5 +1,5 @@
 {
-  "itemCounts": 3,
+  "itemCounts": 2,
   "items": [
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230226_3.png",
@@ -14,13 +14,6 @@
       "tappedURL": "https://twitter.com/tokumemo0000/status/1633350877523357699",
       "organization_name": "徳島大学薬学部学生",
       "description": "メンバー募集"
-    },
-    {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230314.png",
-      "introduction": "徳島大学生同士でプログラミング作業を一緒にしませんか？",
-      "tappedURL": "https://twitter.com/tokumemo0000/status/1635567551773306881",
-      "organization_name": "トクメモ＋開発者",
-      "description": "参加者募集"
     }
   ]
 }
