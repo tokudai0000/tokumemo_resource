@@ -1,5 +1,5 @@
 {
-  "itemCounts": 3,
+  "itemCounts": 4,
   "items": [
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230226_3.png",
@@ -21,6 +21,13 @@
       "tappedURL": "https://www.instagram.com/kaminariren_44/",
       "organization_name": "雷連",
       "description": "メンバー募集 5月31日まで"
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230325.png",
+      "introduction": "3月31日(金)の12時から常三島図書館で第2回もくもく会を行います！一緒にプログラミングしませんか？質問歓迎！気軽に来てくださいね〜♪第1回の参加者が0人だったので、今回は参加人数を確認します(; ; )",
+      "tappedURL": "https://forms.gle/ofg3Q5VszVKRh3xX9",
+      "organization_name": "トクメモ＋",
+      "description": "メンバー募集"
     }
   ]
 }
