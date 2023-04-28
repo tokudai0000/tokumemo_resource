@@ -1,26 +1,19 @@
 {
-  "itemCounts": 3,
+  "itemCounts": 2,
   "items": [
     {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230226_3.png",
-      "introduction": "",
-      "tappedURL": "https://twitter.com/manabukun_sss",
-      "organization_name": "徳島大学学びサポート企画部",
-      "description": "メンバー募集"
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230430_1.png",
+      "introduction": "プログラミングに興味があるそこのあなた！徳島大学生と一緒にプログラミングをしませんか？？ぜひお待ちしています！！",
+      "tappedURL": "https://twitter.com/tokumemo0000/status/1651797829516681217",
+      "organization_name": "トクメモ＋",
+      "description": "もくもく会"
     },
     {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230308.png",
-      "introduction": "徳島大学生同士で公務員試験対策のGDを一緒にしませんか？",
-      "tappedURL": "https://twitter.com/tokumemo0000/status/1633350877523357699",
-      "organization_name": "徳島大学薬学部学生",
-      "description": "メンバー募集"
-    },
-    {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230324.png",
-      "introduction": "徳島ならではの文化を一緒に楽しみませんか？気軽に見学・体験に来てください！",
-      "tappedURL": "https://www.instagram.com/kaminariren_44/",
-      "organization_name": "雷連",
-      "description": "メンバー募集 5月31日まで"
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230430_2.png",
+      "introduction": "徳島大学生と一緒にプログラミングをしませんか？？詳細情報から一緒にプログラミングを学習できる日時が載っています！　わからない点があれば、どんどん質問してください！ぜひお待ちしています！！",
+      "tappedURL": "https://twitter.com/tokumemo0000/status/1651797829516681217",
+      "organization_name": "トクメモ＋",
+      "description": "もくもく会"
     }
   ]
 }

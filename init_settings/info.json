@@ -1,0 +1,159 @@
+{
+  "ver": "230324",
+
+  "latestTermsVersion": "3.0",
+
+  "url": {
+    "universityHomePage": {
+      "comment": "徳島大学ホームページ",
+      "common": "https://www.tokushima-u.ac.jp",
+      "iOS": null,
+      "android": null
+    },
+    "universityCombinedAuthorizationPortal": {
+      "comment": "徳島大学統合認証ポータル(リンク集)",
+      "common": "https://my.ait.tokushima-u.ac.jp/portal/",
+      "iOS": null,
+      "android": null
+    },
+    "eLearningSystemLinkCollection": {
+      "comment": "e-Learningシステムリンク集",
+      "common": "https://uls01.ulc.tokushima-u.ac.jp/info/index.html",
+      "iOS": null,
+      "android": null
+    },
+    "courseManagementPcVersion": {
+      "comment": "教務システムPC版",
+      "common": "https://eweb.stud.tokushima-u.ac.jp/Portal/StudentApp/Top.aspx",
+      "iOS": null,
+      "android": null
+    },
+    "courseManagementMobileVersion": {
+      "comment": "教務システムモバイル版",
+      "common": "https://eweb.stud.tokushima-u.ac.jp/Portal/StudentApp/sp/Top.aspx",
+      "iOS": null,
+      "android": null
+    },
+    "manabaPcVersion": {
+      "comment": "manabaPC版",
+      "common": "https://manaba.lms.tokushima-u.ac.jp/ct/home",
+      "iOS": null,
+      "android": null
+    },
+    "manabaMobileVersion": {
+      "comment": "manabaMobile版",
+      "common": "https://manaba.lms.tokushima-u.ac.jp/s/home_summary",
+      "iOS": null,
+      "android": null
+    },
+    "courseTimetable": {
+      "comment": "履修時間割",
+      "common": "https://eweb.stud.tokushima-u.ac.jp/Portal/StudentApp/Regist/RegistList.aspx",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+    "": {
+      "comment": "",
+      "common": "",
+      "iOS": null,
+      "android": null
+    },
+
+  },
+
+  "url1": [
+    {
+      "title": "universityHomePage",
+      "common": "https://www.tokushima-u.ac.jp",
+      "iOS": null,
+      "android": null,
+      "comment": "徳島大学ホームページ"
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230308.png",
+      "introduction": "徳島大学生同士で公務員試験対策のGDを一緒にしませんか？",
+      "tappedURL": "https://twitter.com/tokumemo0000/status/1633350877523357699",
+      "organization_name": "徳島大学薬学部学生",
+      "description": "メンバー募集"
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230324.png",
+      "introduction": "徳島ならではの文化を一緒に楽しみませんか？気軽に見学・体験に来てください！",
+      "tappedURL": "https://www.instagram.com/kaminariren_44/",
+      "organization_name": "雷連",
+      "description": "メンバー募集 5月31日まで"
+    }
+  ]
+}
