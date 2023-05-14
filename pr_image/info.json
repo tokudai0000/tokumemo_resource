@@ -1,19 +1,12 @@
 {
-  "itemCounts": 5,
+  "itemCounts": 4,
   "items": [
     {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230430_1.png",
-      "introduction": "プログラミングに興味があるそこのあなた！徳島大学生と一緒にプログラミングをしませんか？？ぜひお待ちしています！！",
-      "tappedURL": "https://twitter.com/tokumemo0000",
-      "organization_name": "トクメモ＋",
-      "description": "もくもく会"
-    },
-    {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230430_2.png",
-      "introduction": "徳島大学生と一緒にプログラミングをしませんか？？詳細情報から一緒にプログラミングを学習できる日時が載っています！　わからない点があれば、どんどん質問してください！ぜひお待ちしています！！",
-      "tappedURL": "https://twitter.com/tokumemo0000",
-      "organization_name": "トクメモ＋",
-      "description": "もくもく会"
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230514.png",
+      "introduction": "【イベント案内】参加者同士の繋がりを作り、今後の活動に繋げるため、交流会（飲み会）を開催いたします。特に参加対象はございません。ぜひ、お気軽にご参加ください。参加登録は詳細情報からお願いします！",
+      "tappedURL": "https://peatix.com/event/3564261/view",
+      "organization_name": "あきどん",
+      "description": "IT交流会"
     },
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230226_3.png",
