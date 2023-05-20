@@ -1,5 +1,5 @@
 {
-  "itemCounts": 4,
+  "itemCounts": 5,
   "items": [
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230514.png",
@@ -28,6 +28,13 @@
       "tappedURL": "https://www.instagram.com/kaminariren_44/",
       "organization_name": "雷連",
       "description": "メンバー募集 5月31日まで"
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230520.png",
+      "introduction": "ビブリオバトルとは！  一人一冊の書籍を持ち寄って5分間、その魅力を台本なしで伝え合い、最後に「一番読みたくなった本」、通称チャンプ本を決める戦いのことである。 小説だけでなく漫画や雑誌、果てはゲームの説明書まで持ち込めるぞ！  プレゼン力、思考力、仲間との絆を養えてかつ読書習慣もつけられる……そんな夢の競技を楽しみながら研究しているビブリオバトルサポーター、月二回程度のミーティングに加えシンプルな読書会等もやっております。（もちろん兼部OK！）  興味のある方、質問のある方は是非こちらへ⇩⇩ Twitter：https://twitter.com/awabibliotu?lang=ja Gmail：awabiblio@gmail.com",
+      "tappedURL": "https://twitter.com/awabibliotu",
+      "organization_name": "徳島大学ビブリオバトルサポーター",
+      "description": "メンバー募集"
     }
   ]
 }
