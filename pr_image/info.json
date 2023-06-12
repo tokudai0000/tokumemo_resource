@@ -1,13 +1,6 @@
 {
-  "itemCounts": 5,
+  "itemCounts": 3,
   "items": [
-    {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230525.png",
-      "introduction": "プログラミングについて気軽に質問できる質問会を開催します♪もくもく会に参加するにはハードルが高い。。。そう思っていたあなたに！ぜひ交流しましょう！！",
-      "tappedURL": "https://twitter.com/tokumemo0000/status/1661343599756455939",
-      "organization_name": "あきどん",
-      "description": "プログラミング質問会"
-    },
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230226_3.png",
       "introduction": "",
@@ -21,13 +14,6 @@
       "tappedURL": "https://twitter.com/tokumemo0000/status/1633350877523357699",
       "organization_name": "徳島大学薬学部学生",
       "description": "メンバー募集"
-    },
-    {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230324.png",
-      "introduction": "徳島ならではの文化を一緒に楽しみませんか？気軽に見学・体験に来てください！",
-      "tappedURL": "https://www.instagram.com/kaminariren_44/",
-      "organization_name": "雷連",
-      "description": "メンバー募集 5月31日まで"
     },
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230520.png",
