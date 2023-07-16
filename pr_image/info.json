@@ -1,18 +1,11 @@
 {
-  "itemCounts": 3,
+  "itemCounts": 2,
   "items": [
     {
       "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230226_3.png",
       "introduction": "",
       "tappedURL": "https://twitter.com/manabukun_sss",
       "organization_name": "徳島大学学びサポート企画部",
-      "description": "メンバー募集"
-    },
-    {
-      "imageURL": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/pr_image/images/230308.png",
-      "introduction": "徳島大学生同士で公務員試験対策のGDを一緒にしませんか？",
-      "tappedURL": "https://twitter.com/tokumemo0000/status/1633350877523357699",
-      "organization_name": "徳島大学薬学部学生",
       "description": "メンバー募集"
     },
     {
