@@ -1,5 +1,5 @@
 {
-    "items": [
+    "prItems": [
         {
             "id": 23022603,
             "clientName": "徳島大学学びサポート企画部",
@@ -13,6 +13,16 @@
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23052000.png",
             "targetUrlStr": "https://twitter.com/awabibliotu",
             "imageDescription": "ビブリオバトルとは！  一人一冊の書籍を持ち寄って5分間、その魅力を台本なしで伝え合い、最後に「一番読みたくなった本」、通称チャンプ本を決める戦いのことである。 小説だけでなく漫画や雑誌、果てはゲームの説明書まで持ち込めるぞ！  プレゼン力、思考力、仲間との絆を養えてかつ読書習慣もつけられる……そんな夢の競技を楽しみながら研究しているビブリオバトルサポーター、月二回程度のミーティングに加えシンプルな読書会等もやっております。（もちろん兼部OK！）  興味のある方、質問のある方は是非こちらへ⇩⇩ Twitter：https://twitter.com/awabibliotu?lang=ja Gmail：awabiblio@gmail.com"
+        }
+    ],
+
+    "univItems": [
+        {
+            "id": 23031400,
+            "clientName": "トクメモ＋開発部",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23031400.png",
+            "targetUrlStr": "https://twitter.com/tokumemo0000",
+            "imageDescription": "トクメモ＋だよ"
         }
     ]
 }
