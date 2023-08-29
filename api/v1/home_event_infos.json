@@ -1,0 +1,23 @@
+{
+    "popupItems": [
+        {
+            "id": 23082900,
+            "clientName": "常三島実行委員会",
+            "titleName": "10月21.22 蔵本祭",
+            "description": "今週末は蔵本祭ですね！　思いっきり学園祭を楽しみましょう♪"
+        },
+    ],
+
+    "buttonItems": [
+        {
+            "id": 23082900,
+            "titleName": "10月21.22 蔵本祭",
+            "targetUrlStr": ""
+        },
+        {
+            "id": 23082901,
+            "titleName": "10月29.30 常三島祭",
+            "targetUrlStr": ""
+        },
+    ]
+}
