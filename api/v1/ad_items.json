@@ -18,10 +18,10 @@
 
     "univItems": [
         {
-            "id": 23082100,
+            "id": 23100200,
             "clientName": "徳大i.school",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23082100.png",
-            "targetUrlStr": "https://www.ischool.inv.tokushima-u.ac.jp/news/20230819ws/",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23100200.png",
+            "targetUrlStr": "http://www.ischool.inv.tokushima-u.ac.jp/news/20231014ws/",
             "imageDescription": ""
         }
     ]
