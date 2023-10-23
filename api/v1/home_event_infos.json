@@ -9,10 +9,5 @@
     ],
 
     "buttonItems": [
-        {
-            "id": 23101900,
-            "titleName": "[店舗情報]蔵本祭",
-            "targetUrlStr": "https://kurasaikouhou.wixsite.com/my-site/blank-3"
-        }
     ]
 }
