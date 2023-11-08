@@ -18,10 +18,17 @@
 
     "univItems": [
         {
-            "id": 23100200,
+            "id": 23110800,
             "clientName": "徳大i.school",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23100200.png",
-            "targetUrlStr": "http://www.ischool.inv.tokushima-u.ac.jp/news/20231014ws/",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23110800.png",
+            "targetUrlStr": "https://www.ischool.inv.tokushima-u.ac.jp/news/20231125ws/",
+            "imageDescription": ""
+        },
+        {
+            "id": 23110801,
+            "clientName": "徳大i.school",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23110801.png",
+            "targetUrlStr": "https://www.ischool.inv.tokushima-u.ac.jp/news/20231216ws/",
             "imageDescription": ""
         }
     ]
