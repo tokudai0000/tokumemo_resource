@@ -24,5 +24,12 @@
     ],
 
     "univItems": [
+        {
+            "id": 23022601,
+            "clientName": "トクメモ＋",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022601.png",
+            "targetUrlStr": "https://docs.google.com/forms/d/e/1FAIpQLSeyQ-rpMslvLp4WSLc1JsyI9skve_WYYNp61G1zlRAdGKVlBQ/viewform",
+            "imageDescription": ""
+        },
     ]
 }
