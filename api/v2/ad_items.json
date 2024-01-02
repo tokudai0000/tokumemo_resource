@@ -1,0 +1,35 @@
+{
+    "prItems": [
+            {
+            "id": 23112800,
+            "clientName": "徳島大学院 修士1年 松山　(トクメモ開発者)",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23112800.png",
+            "targetUrlStr": "https://tokushima-cyber-security-meetup.connpass.com/event/301551/",
+            "imageDescription": "徳島サイバーセキュリティ・ミートアップ、待望のCTFイベントがついに開催！初心者でも楽しめる、このエキサイティングなCTF（Capture The Flag）大会では、あなたのセキュリティスキルが試されます。ウェブ、ネットワーク、暗号解読、プログラミングの腕前を駆使し、さまざまな課題をクリアして、隠された秘密の文字列を発見しましょう。クリスマスの魔法のように、技術の謎解きを楽しみながら、セキュリティの知識を深めていきましょう。 \n \n 個人やチームでの参加も大歓迎！当日に2〜3人のチームを構成し、知恵と技術を結集し、CTF問題を楽しみます。最も多くのポイントを獲得したチームには、栄光の優勝者の称号が与えられるだけでなく、クリスマスにちなんだ特別な賞品も！お菓子の詰め合わせセットとAmazonギフト券が待っています。この冬、徳島で最もホットなイベントへの参加をお見逃しなく！"
+        },
+        {
+            "id": 23022603,
+            "clientName": "徳島大学学びサポート企画部",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022603.png",
+            "targetUrlStr": "https://twitter.com/manabukun_sss",
+            "imageDescription": "徳島大学学びサポート企画部です。"
+        },
+        {
+            "id": 23052000,
+            "clientName": "徳島大学ビブリオバトルサポーター",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23052000.png",
+            "targetUrlStr": "https://twitter.com/awabibliotu",
+            "imageDescription": "ビブリオバトルとは！  一人一冊の書籍を持ち寄って5分間、その魅力を台本なしで伝え合い、最後に「一番読みたくなった本」、通称チャンプ本を決める戦いのことである。 小説だけでなく漫画や雑誌、果てはゲームの説明書まで持ち込めるぞ！  プレゼン力、思考力、仲間との絆を養えてかつ読書習慣もつけられる……そんな夢の競技を楽しみながら研究しているビブリオバトルサポーター、月二回程度のミーティングに加えシンプルな読書会等もやっております。（もちろん兼部OK！）  興味のある方、質問のある方は是非こちらへ⇩⇩ Twitter：https://twitter.com/awabibliotu?lang=ja Gmail：awabiblio@gmail.com"
+        }
+    ],
+
+    "univItems": [
+        {
+            "id": 23022601,
+            "clientName": "トクメモ＋",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022601.png",
+            "targetUrlStr": "https://docs.google.com/forms/d/e/1FAIpQLSeyQ-rpMslvLp4WSLc1JsyI9skve_WYYNp61G1zlRAdGKVlBQ/viewform",
+            "imageDescription": ""
+        },
+    ]
+}
