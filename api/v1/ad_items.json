@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24011800,
+            "clientName": "トクメモグループ",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24011800.png",
+            "targetUrlStr": "https://x.com/tokumemo0000/status/1747949038849212619",
+            "imageDescription": "＼＼\\ 最新情報 // ／／ アプリ開発勉強会を開催します！ 以下のようなアプリを開発します ・ブログアプリ ・Todoアプリ複数日程を用意しているので、都合が合う好きな時間帯にお越しください！👇興味のある方はこちらのDiscordへ👇https://discord.gg/Tn5U5qKg9A"
+        },
+        {
             "id": 23022603,
             "clientName": "徳島大学学びサポート企画部",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022603.png",
@@ -23,6 +30,6 @@
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022601.png",
             "targetUrlStr": "https://docs.google.com/forms/d/e/1FAIpQLSeyQ-rpMslvLp4WSLc1JsyI9skve_WYYNp61G1zlRAdGKVlBQ/viewform",
             "imageDescription": ""
-        },
+        }
     ]
 }
