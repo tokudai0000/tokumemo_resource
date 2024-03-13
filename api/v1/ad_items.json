@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24021300,
+            "clientName": "男子ラクロス部",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24021300.png",
+            "targetUrlStr": "https://twitter.com/orangesunshines",
+            "imageDescription": "男子ラクロス部では日々新歓を行っています！ぜひ来てね！"
+        },
+        {
             "id": 24021400,
             "clientName": "株式会社Gofer (徳島大学発ベンチャー企業)",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24021400.png",
