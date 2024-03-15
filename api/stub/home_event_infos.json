@@ -14,6 +14,18 @@
             "clientName": "トクメモ",
             "titleName": "新歓イベントカレンダー",
             "targetUrlStr": "https://github.com/akidon0000"
+        },
+        {
+            "id": 24031501,
+            "clientName": "トクメモ",
+            "titleName": "test2",
+            "targetUrlStr": "https://qiita.com/akidon0000"
+        },
+        {
+            "id": 24031502,
+            "clientName": "トクメモ",
+            "titleName": "test3 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "targetUrlStr": "https://connpass.com/dashboard/"
         }
     ]
 }
