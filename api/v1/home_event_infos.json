@@ -9,5 +9,11 @@
     ],
 
     "buttonItems": [
+        {
+            "id": 24032700,
+            "clientName": "トクメモ",
+            "titleName": "新歓イベントカレンダー",
+            "targetUrlStr": "https://outlook.live.com/calendar/0/published/00000000-0000-0000-0000-000000000000/586bf4d9-c2ef-43e0-b5a4-8b0b6814502b/cid-9370475E6E02062B/calendar.html/"
+        }
     ]
 }
