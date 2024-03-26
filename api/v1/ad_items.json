@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24032600,
+            "clientName": "J-SWEET",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24032600.png",
+            "targetUrlStr": "https://twitter.com/JSWEETtokushima",
+            "imageDescription": "質問は各種SNSのDMにて！"
+        },
+        {
             "id": 24021300,
             "clientName": "男子ラクロス部",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24021300.png",
