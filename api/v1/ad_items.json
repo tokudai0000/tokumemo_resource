@@ -39,6 +39,13 @@
 
     "univItems": [
         {
+            "id": 24032700,
+            "clientName": "トクメモ＋",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24032700.png",
+            "targetUrlStr": "https://tokumemo-store-house.notion.site/2024-680c8ec3200b49e48ca94039d37be3ff?pvs=74",
+            "imageDescription": ""
+        },
+        {
             "id": 23022601,
             "clientName": "トクメモ＋",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022601.png",
