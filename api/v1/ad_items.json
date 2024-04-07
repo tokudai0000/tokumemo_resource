@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24040700,
+            "clientName": "リーダークライス",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24040700.png",
+            "targetUrlStr": "https://twitter.com/2024LiederKreis",
+            "imageDescription": "混声合唱団リーダークライスです！ 部員の大半は、 ・歌が苦手だから上手くなりたい ・挑戦したい ・雰囲気が心地良い などの理由でリークラに入り、楽しく活動をしています。  新入生だけでなく2年生以上の方も興味があれば、SNSのDMなどでぜひご連絡ください♪"
+        },
+        {
             "id": 24032600,
             "clientName": "J-SWEET",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24032600.png",
