@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24041600,
+            "clientName": "阿波電鉄プロジェクト",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24041600.png",
+            "targetUrlStr": "https://twitter.com/AwadenTokushima",
+            "imageDescription": "徳島に初の電車を。イノベーションプラザで活動している阿波電鉄プロジェクトです！"
+        },
+        {
             "id": 24040700,
             "clientName": "リーダークライス",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24040700.png",
@@ -13,13 +20,6 @@
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24032600.png",
             "targetUrlStr": "https://twitter.com/JSWEETtokushima",
             "imageDescription": "質問は各種SNSのDMにて！"
-        },
-        {
-            "id": 24021400,
-            "clientName": "株式会社Gofer (徳島大学発ベンチャー企業)",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24021400.png",
-            "targetUrlStr": "https://lin.ee/awyabVk",
-            "imageDescription": "詳細を押すと公式LINEへと遷移します \n  https://gofer.co.jp/私たちについて/ \n 会社名 株式会社GoFer \n活動場所 徳島市 \n事務所 〒770-0861 徳島県徳島市住吉2-2-5北田ビル \n資本金 100万円 \n代表取締役社長 小柳功王 こやなぎ こうき \n設立日 2020年7月15日 \n\n小柳 功王 \n2000年2月岡山生まれ \n2018年4月徳島大学理工学部に入学。 \n2019年5月株式会社GoFerの前身となるノックウォークの代表として活動を始める。 \n2019年7月名前をノックウォークからGoFerに変更し個人事業主として活動開始。 \n2020年7月イツモスマイル株式会社から資本協力を得て、株式会社GoFer設立と同時に代表取締役に就任  \n\n畠中 健斗 \n1999年5月兵庫県生まれ\n 2018年4月徳島大学理工学部に入学。 \n2019年5月株式会社GoFerの前身となるノックウォークの副代表として活動を始める。\n2020年7月イツモスマイル株式会社から資本協力を得て、株式会社GoFer設立と同時に代表取締役に就任"
         },
         {
             "id": 23022603,
