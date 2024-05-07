@@ -1,20 +1,6 @@
 {
     "prItems": [
         {
-            "id": 24041600,
-            "clientName": "阿波電鉄プロジェクト",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24041600.png",
-            "targetUrlStr": "https://twitter.com/AwadenTokushima",
-            "imageDescription": "徳島に初の電車を。イノベーションプラザで活動している阿波電鉄プロジェクトです！"
-        },
-        {
-            "id": 24040700,
-            "clientName": "リーダークライス",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24040700.png",
-            "targetUrlStr": "https://twitter.com/2024LiederKreis",
-            "imageDescription": "混声合唱団リーダークライスです！ 部員の大半は、 ・歌が苦手だから上手くなりたい ・挑戦したい ・雰囲気が心地良い などの理由でリークラに入り、楽しく活動をしています。  新入生だけでなく2年生以上の方も興味があれば、SNSのDMなどでぜひご連絡ください♪"
-        },
-        {
             "id": 23022603,
             "clientName": "徳島大学学びサポート企画部",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022603.png",
@@ -31,13 +17,6 @@
     ],
 
     "univItems": [
-        {
-            "id": 24032700,
-            "clientName": "トクメモ＋",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24032700.png",
-            "targetUrlStr": "https://tokumemo-store-house.notion.site/2024-680c8ec3200b49e48ca94039d37be3ff?pvs=74",
-            "imageDescription": ""
-        },
         {
             "id": 23022601,
             "clientName": "トクメモ＋",
