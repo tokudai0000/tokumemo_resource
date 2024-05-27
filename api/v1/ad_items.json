@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24052700,
+            "clientName": "徳大防災サークルてくと",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24052700.png",
+            "targetUrlStr": "https://www.instagram.com/tect_tokudai/",
+            "imageDescription": "徳大防災サークルてくと、詳細はInstagramまで！"
+        },
+        {
             "id": 23022603,
             "clientName": "徳島大学学びサポート企画部",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022603.png",
