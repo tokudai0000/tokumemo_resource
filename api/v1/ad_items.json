@@ -1,35 +1,42 @@
 {
-    "prItems": [
-        {
-            "id": 24052700,
-            "clientName": "徳大防災サークルてくと",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24052700.png",
-            "targetUrlStr": "https://www.instagram.com/tect_tokudai/",
-            "imageDescription": "徳大防災サークルてくと、詳細はInstagramまで！"
-        },
-        {
-            "id": 23022603,
-            "clientName": "徳島大学学びサポート企画部",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022603.png",
-            "targetUrlStr": "https://twitter.com/manabukun_sss",
-            "imageDescription": "徳島大学学びサポート企画部です。"
-        },
-        {
-            "id": 23052000,
-            "clientName": "徳島大学ビブリオバトルサポーター",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23052000.png",
-            "targetUrlStr": "https://twitter.com/awabibliotu",
-            "imageDescription": "ビブリオバトルとは！  一人一冊の書籍を持ち寄って5分間、その魅力を台本なしで伝え合い、最後に「一番読みたくなった本」、通称チャンプ本を決める戦いのことである。 小説だけでなく漫画や雑誌、果てはゲームの説明書まで持ち込めるぞ！  プレゼン力、思考力、仲間との絆を養えてかつ読書習慣もつけられる……そんな夢の競技を楽しみながら研究しているビブリオバトルサポーター、月二回程度のミーティングに加えシンプルな読書会等もやっております。（もちろん兼部OK！）  興味のある方、質問のある方は是非こちらへ⇩⇩ Twitter：https://twitter.com/awabibliotu?lang=ja Gmail：awabiblio@gmail.com"
-        }
-    ],
+  "prItems": [
+    {
+      "id": 24060100,
+      "clientName": "港産業株式会社",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24060100.png",
+      "targetUrlStr": "https://job.mynavi.jp/26/pc/corpinfo/displayInternship/index?corpId=85888&optNo=wkLIz",
+      "imageDescription": "港産業株式会社は、徳島県を拠点に製造業を支える技術商社です。\n 四国４県のものづくりを縁の下からサポートしており、さまざまな職種の人材を募集しています。\n 営業職をはじめ、システムエンジニア、サービスエンジニア、設計技術、施工管理など、多様な職種、ポジションがあります！\n また、徳島大学の卒業生も多数在籍しています。\n 座談会など交流する機会もあり！！\n 詳細は以下の「詳細情報」をクリック！！（全学年で応募可能！会社見学＆仕事体験あり！）"
+    },
+    {
+      "id": 24052700,
+      "clientName": "徳大防災サークルてくと",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24052700.png",
+      "targetUrlStr": "https://www.instagram.com/tect_tokudai/",
+      "imageDescription": "徳大防災サークルてくと、詳細はInstagramまで！"
+    },
+    {
+      "id": 23022603,
+      "clientName": "徳島大学学びサポート企画部",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022603.png",
+      "targetUrlStr": "https://twitter.com/manabukun_sss",
+      "imageDescription": "徳島大学学びサポート企画部です。"
+    },
+    {
+      "id": 23052000,
+      "clientName": "徳島大学ビブリオバトルサポーター",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23052000.png",
+      "targetUrlStr": "https://twitter.com/awabibliotu",
+      "imageDescription": "ビブリオバトルとは！  一人一冊の書籍を持ち寄って5分間、その魅力を台本なしで伝え合い、最後に「一番読みたくなった本」、通称チャンプ本を決める戦いのことである。 小説だけでなく漫画や雑誌、果てはゲームの説明書まで持ち込めるぞ！  プレゼン力、思考力、仲間との絆を養えてかつ読書習慣もつけられる……そんな夢の競技を楽しみながら研究しているビブリオバトルサポーター、月二回程度のミーティングに加えシンプルな読書会等もやっております。（もちろん兼部OK！）  興味のある方、質問のある方は是非こちらへ⇩⇩ Twitter：https://twitter.com/awabibliotu?lang=ja Gmail：awabiblio@gmail.com"
+    }
+  ],
 
-    "univItems": [
-        {
-            "id": 23022601,
-            "clientName": "トクメモ＋",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022601.png",
-            "targetUrlStr": "https://docs.google.com/forms/d/e/1FAIpQLSeyQ-rpMslvLp4WSLc1JsyI9skve_WYYNp61G1zlRAdGKVlBQ/viewform",
-            "imageDescription": ""
-        }
-    ]
+  "univItems": [
+    {
+      "id": 23022601,
+      "clientName": "トクメモ＋",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/23022601.png",
+      "targetUrlStr": "https://docs.google.com/forms/d/e/1FAIpQLSeyQ-rpMslvLp4WSLc1JsyI9skve_WYYNp61G1zlRAdGKVlBQ/viewform",
+      "imageDescription": ""
+    }
+  ]
 }
