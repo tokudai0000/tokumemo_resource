@@ -1,6 +1,13 @@
 {
   "prItems": [
     {
+      "id": 24062800,
+      "clientName": "TOKUSHIMA Cyber Security Meetup (徳島県サイバーセキュリティ勉強会)",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24062800.png",
+      "targetUrlStr": "https://tokushima-cyber-security-meetup.connpass.com/event/321947/",
+      "imageDescription": "今回の TOKUSHIMA Cyber Security Meetup（徳島県サイバーセキュリティ勉強会）は、OWASP Sendai チャプターリーダー、株式会社セキュリティイニシアティブ代表の「小笠貴晴」さんをお招きして ≪脅威モデリング≫ について学びます。勉強会後には懇親会を予定しています。ぜひ懇親会までご参加ください！ \n \n --イベント概要-- \n このワークショップでは、ホワイトボードを使用して DFD （データフロー図）を書き、脅威を特定し、対策を考えるハンズオンをグループワークを通じて、脅威モデリングの基本を学びます。参加者は小グループに分かれ、実際のシナリオを用いて脅威モデリングのプロセスを体験します。"
+    },
+    {
       "id": 24060100,
       "clientName": "港産業株式会社",
       "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24060100.png",
