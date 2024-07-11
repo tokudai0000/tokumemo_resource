@@ -1,6 +1,13 @@
 {
   "prItems": [
     {
+      "id": 24071100,
+      "clientName": "一般社団法人大学支援機構",
+      "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24071100.png",
+      "targetUrlStr": "https://universityhub.or.jp/news/99320.html",
+      "imageDescription": "女子学生の皆さん！女性研究者や企業の取り組みを知り、理系への興味を深めてみませんか？\n■開催日時\n7月21日（日）13:30～15:30\n■場所\n徳島大学フューチャーセンター A.BA（地域創生・国際交流会館5階）\n■参加者\n●徳島大学の女性研究者\n・AWAサポートセンター センター所長 坂東 良美\n・理工学研究部生物資源産業学域 准教授 佐々木 千鶴\n●徳島大学の理系活動団体\n・J-SWEET\n・徳島女性宇宙工学研究会 TWSSE\n●企業\n・日亜化学工業株式会社\n・四国化工機株式会社\n・港産業株式会社"
+    },
+    {
       "id": 24062800,
       "clientName": "TOKUSHIMA Cyber Security Meetup (徳島県サイバーセキュリティ勉強会)",
       "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24062800.png",
