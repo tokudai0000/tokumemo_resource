@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24102000,
+            "clientName": "とくjob",
+            "imageUrlStr": "https://tokujob.com/",
+            "targetUrlStr": "https://docs.google.com/forms/d/e/1FAIpQLSfCft_LKTs9o2bILEajYrBY8a8niHcwa7oQMGYkAN_vRideyA/viewform",
+            "imageDescription": "とくjobは、現役徳大生が運営する、徳大生のためのバイト求人掲示板です。web、Instagramで求人情報を掲載しております!Instagramはwebページに移動していただき、ページ下部のInstagramアイコンからどうぞ。是非、フォローもよろしくお願いします。ご不明な点やサイトの不具合等ございましたら、管理人メールアドレスかInstagram DMまでお願いします。"
+        },
+        {
             "id": 24092300,
             "clientName": "阿波ビブリオバトルサポーター",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24092300.png",
