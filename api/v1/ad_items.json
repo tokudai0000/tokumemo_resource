@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 24111300,
+            "clientName": "トクメモグループ",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24111300.png",
+            "targetUrlStr": "https://tokumemo-store-house.notion.site/1-LT-13c4a680ee978041bcd2e4c4349c0a23",
+            "imageDescription": "11月29日(金) 18時〜21時　徳島市内にて\n\nヒマ会#1\n~やさしいワイワイ雑談LT会~\n\nをトクメモグループが主催します🙌\n(協賛：株式会社FeaSion)\n\nコンセプトは\n\n新たなつながりを築く場\n学び直し、あなたの一歩を応援する場\nあなたと近い境遇の人たちに相談できる場\n\nLT(ショートプレゼン)の飛び入り登壇枠も用意しているので是非、気軽にご参加ください🥳"
+        },
+        {
             "id": 24102000,
             "clientName": "とくjob",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24102000.png",
