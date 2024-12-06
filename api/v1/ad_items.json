@@ -1,13 +1,6 @@
 {
     "prItems": [
         {
-            "id": 24102000,
-            "clientName": "とくjob",
-            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24102000.png",
-            "targetUrlStr": "https://tokujob.com/",
-            "imageDescription": "とくjobは、現役徳大生が運営する、徳大生のためのバイト求人掲示板です。web、Instagramで求人情報を掲載しております!Instagramはwebページに移動していただき、ページ下部のInstagramアイコンからどうぞ。是非、フォローもよろしくお願いします。ご不明な点やサイトの不具合等ございましたら、管理人メールアドレスかInstagram DMまでお願いします。"
-        },
-        {
             "id": 24052700,
             "clientName": "徳大防災サークルてくと",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24052700.png",
