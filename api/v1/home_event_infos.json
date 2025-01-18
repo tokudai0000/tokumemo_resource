@@ -9,11 +9,5 @@
     ],
 
     "buttonItems": [
-        {
-            "id": 25010600,
-            "clientName": "トクメモ",
-            "titleName": "トクメモ存続のアンケート",
-            "targetUrlStr": "https://forms.gle/kNMFBBqJYFu1jRrh9"
-        }
     ]
 }
