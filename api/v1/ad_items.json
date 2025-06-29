@@ -1,6 +1,13 @@
 {
     "prItems": [
         {
+            "id": 25062900,
+            "clientName": "徳島大学防災チーム",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/25062900.png",
+            "targetUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/25062900.png",
+            "imageDescription": "徳島大学電気電子4年開講の電気エンジニアリングデザイン演習の授業の一環で、徳島県の防災情報に関するLINEアカウントを作成しました。市町村を入力し、表示される地域番号を入力すると、その地域のハザードマップが表示されます。"
+        },
+        {
             "id": 24052700,
             "clientName": "徳大防災サークルてくと",
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/24052700.png",
