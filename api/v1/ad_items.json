@@ -6,6 +6,13 @@
             "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/26110500.png",
             "targetUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/26110500.png",
             "imageDescription": "大学のログイン仕様変更のため、自動ログイン機能を停止しています。アップデートをしていない方は早めにアップデートをよろしくお願いします。古いバージョンは今後が利用不可になる可能性があります。"
+        },
+        {
+            "id": 26111300,
+            "clientName": "トクメモ+",
+            "imageUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/26111300.png",
+            "targetUrlStr": "https://raw.githubusercontent.com/tokudai0000/tokumemo_resource/main/api/v1/images/26111300.png",
+            "imageDescription": "Microsoft 365 の障害が発生し、Outlookやその他サービスが使えなくなっています。復旧するまでしばらくお待ちください。"
         }
     ],
     
